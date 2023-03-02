@@ -10,11 +10,11 @@
 	<groupId>com.example.demo</groupId>
 	<artifactId>loanManagementProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>loanManagementProject</name>
 	<description>Loan Management Project</description>
 	<properties>
 		<java.version>1.8</java.version>
-		<spring-cloud.version>2020.0.1</spring-cloud.version>
 	</properties>
 	<dependencies>
 		
